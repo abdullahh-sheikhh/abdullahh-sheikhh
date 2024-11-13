@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdullah</h1>
-<h3 align="center">Software Engineer with expertise in full stack web development. Hands-on experience with DevOps and Cloud Technologies. Learning LLM and Prompt Engineering.</h3>
+<h3 align="center">Software Engineer with expertise in full-stack web development. Hands-on experience with DevOps and Cloud Technologies. Learning LLM and Prompt Engineering.</h3>
 
 - 🔭 I’m currently working at **i2c Inc (Pakistan)**
 
