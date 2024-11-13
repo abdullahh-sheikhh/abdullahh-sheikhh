@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdullah</h1>
 <h3 align="center">Software Engineer with expertise in full stack web development. Hands-on experience with DevOps and Cloud Technologies. Learning LLM and Prompt Engineering.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahh-sheikhh&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahh-sheikhh" /> </p>
-
 - 🔭 I’m currently working at **i2c Inc (Pakistan)**
 
 - 🌱 I’m currently learning **LLMs, Prompt Engineering and LangGraphs**
