@@ -8,7 +8,7 @@
 
 ---
 
-Software Engineer with 3+ years of experience building large-scale e-commerce and classifieds platforms. Currently pursuing an MS in Computer Science (Data Science & Image Processing) at Sorbonne Université, Paris.
+Software Engineer with 3+ years of experience building large-scale e-commerce and classifieds platforms. Currently pursuing an MS in Computer Science (Machine Learning & Image Processing) at Sorbonne Université, Paris.
 
 ---
 
