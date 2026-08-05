@@ -8,7 +8,8 @@
 
 ---
 
-Software Engineer with 3+ years of experience building large-scale e-commerce and classifieds platforms. Currently pursuing an MS in Computer Science (Machine Learning & Image Processing) at Sorbonne Université, Paris.
+- Software Engineer who loves building things.
+- MS in Computer Science (Machine Learning & Image Processing) at Sorbonne Université, Paris.
 
 ---
 
@@ -19,13 +20,11 @@ Software Engineer with 3+ years of experience building large-scale e-commerce an
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 
 **Frontend**
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=nuxt.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
 
 **Backend**
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
@@ -39,17 +38,6 @@ Software Engineer with 3+ years of experience building large-scale e-commerce an
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
----
-
-## Experience
-
-| Period | Company | Role |
-|--------|---------|------|
-| Feb 2025 – Sep 2025 | **Dubizzle Labs** *(OLX Pakistan · Zameen.com)* | Software Engineer |
-| Mar 2024 – Feb 2025 | **i2c Inc.** | Software Engineer |
-| Jan 2023 – Mar 2024 | **LAAM Technologies** | Software Engineer I |
-| Aug 2021 – Oct 2021 | **Systems Limited** | Data Analyst Intern |
 
 ---
 
